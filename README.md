@@ -1,2 +1,14 @@
 # Easy-YT
 Making the process of downloading youtube videos faster and more convinient.
+
+# What can it do?
+This python script can be used to download youtube vidoes in either mp4 or mp3 format.
+Any number of videos can be downloaded at a single time
+
+# Is the project Completed?
+Pretty much yes. I felt lazy to find bugs but it works perfectly
+
+# Requirements
+selenium
+pytube
+
