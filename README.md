@@ -9,6 +9,8 @@ Any number of videos can be downloaded at a single time
 Pretty much yes. I felt lazy to find bugs but it works perfectly
 
 # Requirements
-selenium
-pytube
+selenium (pip install selenium)<br />
+pytube (pip install pytube)<br />
+chromedrvier (https://chromedriver.chromium.org/downloads) (Download correct driver with version similar to your chrome browser)
+
 
