@@ -7,7 +7,7 @@ The script can be used to download vidoes in either MP4(Video) or MP3(Audio) for
 ## Requirements
 1. selenium `pip install selenium`
 2. pytube `pip install pytube`
-3. chromedrvier [https://chromedriver.chromium.org/downloads](Download correct driver) with version similar to your chrome browser.
+3. chrome driver [https://chromedriver.chromium.org/downloads](Download correct driver) with version similar to your chrome browser.
 
 That's it! Now you can run the script:
 ```
