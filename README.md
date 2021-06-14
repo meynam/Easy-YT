@@ -12,5 +12,6 @@ Pretty much yes. I felt lazy to find bugs but it works perfectly
 selenium (pip install selenium)<br />
 pytube (pip install pytube)<br />
 chromedrvier (https://chromedriver.chromium.org/downloads) (Download correct driver with version similar to your chrome browser)
+Alternitively, run (pip install -r requirements.txt)<br /> to install all of it (exculding the drivers)
 
-
+To get the drivers do (python getdrivers.py)<br /> to get them. (Extra requirement for this: wget)
